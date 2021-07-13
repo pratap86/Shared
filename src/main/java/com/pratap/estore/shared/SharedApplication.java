@@ -1,13 +1,13 @@
-package com.pratap.estore.core;
+package com.pratap.estore.shared;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CoreApplication {
+public class SharedApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CoreApplication.class, args);
+        SpringApplication.run(SharedApplication.class, args);
     }
 
 }
