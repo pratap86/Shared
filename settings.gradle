@@ -4,4 +4,4 @@ pluginManagement {
         id 'io.spring.dependency-management' version '1.0.11.RELEASE'
     }
 }
-rootProject.name = 'shared'
+rootProject.name = 'Shared'
